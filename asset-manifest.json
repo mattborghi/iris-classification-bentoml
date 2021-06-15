@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/iris-classification-bentoml/static/css/main.39800deb.chunk.css",
+    "main.js": "/iris-classification-bentoml/static/js/main.9223d094.chunk.js",
+    "main.js.map": "/iris-classification-bentoml/static/js/main.9223d094.chunk.js.map",
+    "runtime-main.js": "/iris-classification-bentoml/static/js/runtime-main.d60dd245.js",
+    "runtime-main.js.map": "/iris-classification-bentoml/static/js/runtime-main.d60dd245.js.map",
+    "static/js/2.0896e56c.chunk.js": "/iris-classification-bentoml/static/js/2.0896e56c.chunk.js",
+    "static/js/2.0896e56c.chunk.js.map": "/iris-classification-bentoml/static/js/2.0896e56c.chunk.js.map",
+    "static/js/3.c5f2ed24.chunk.js": "/iris-classification-bentoml/static/js/3.c5f2ed24.chunk.js",
+    "static/js/3.c5f2ed24.chunk.js.map": "/iris-classification-bentoml/static/js/3.c5f2ed24.chunk.js.map",
+    "index.html": "/iris-classification-bentoml/index.html",
+    "static/css/main.39800deb.chunk.css.map": "/iris-classification-bentoml/static/css/main.39800deb.chunk.css.map",
+    "static/js/2.0896e56c.chunk.js.LICENSE.txt": "/iris-classification-bentoml/static/js/2.0896e56c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/iris-classification-bentoml/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d60dd245.js",
+    "static/js/2.0896e56c.chunk.js",
+    "static/css/main.39800deb.chunk.css",
+    "static/js/main.9223d094.chunk.js"
+  ]
+}
